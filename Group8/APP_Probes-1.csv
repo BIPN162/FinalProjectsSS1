@@ -1,0 +1,4 @@
+id,name,gene-id,gene-symbol,gene-name,entrez-id,chromosome,start-position,end-position
+1029275,"A_32_P167000",348,"APP","amyloid beta (A4) precursor protein",351,"21","n/a","n/a"
+1029276,"A_24_P314159",348,"APP","amyloid beta (A4) precursor protein",351,"21","n/a","n/a"
+1029277,"CUST_84_PI416408490",348,"APP","amyloid beta (A4) precursor protein",351,"21","n/a","n/a"
